@@ -1,0 +1,19 @@
+# AES-256 encrypt
+aes_256_key: kwNfBv0Dqr
+aes_256_iv: VeXuN6Gssgr55DG4NZzTSA==
+method_aes_256: aes-256-cbc
+method_hash: sha256
+
+# SHA-256 encrypt
+sha256_salt: nhs-ihs
+
+
+status:
+  0: VALID|VALID
+  1: INVALID|INVALID
+
+# max upload file size in Megabyte
+max_upload_file_size: 10
+
+# Pagination configs
+pagination_limit: 100
